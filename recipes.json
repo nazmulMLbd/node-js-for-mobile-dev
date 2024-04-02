@@ -1,0 +1,628 @@
+[
+    {
+       "name":"Neapolitan Pizza",
+       "type":"Thin Crust",
+       "title":"Seafood Pasta with Clams & Chili",
+       "servings":2,
+       "calories":216,
+       "preparation_time":"12 minutes",
+       "difficulty":"Medium",
+       "ingredients":[
+          {
+             "name":"Clams",
+             "type":"Fresh",
+             "completion_percentage":20
+          },
+          {
+             "name":"Chili Pepper",
+             "type":"Red",
+             "completion_percentage":50
+          },
+          {
+             "name":"Garlic",
+             "type":"Minced",
+             "completion_percentage":10
+          },
+          {
+             "name":"Olive Oil",
+             "type":"Extra Virgin",
+             "completion_percentage":5
+          },
+          {
+             "name":"Parsley",
+             "type":"Chopped",
+             "completion_percentage":15
+          }
+       ],
+       "preparation_step":[
+          {
+             "number":1,
+             "description":"Finely chop a few fresh chives and sprinkle in the centre of the sheet, then slice and lay over the salmon."
+          },
+          {
+             "number":2,
+             "description":"Heat the olive oil in a large pan over medium heat, add garlic and red chili, and sauté until fragrant."
+          },
+          {
+             "number":3,
+             "description":"Increase heat to high, add clams and cover the pan, cook until clams open up."
+          },
+          {
+             "number":4,
+             "description":"Cook pasta in a separate pot of boiling salted water until al dente, then drain."
+          },
+          {
+             "number":5,
+             "description":"Toss the pasta with the clam mixture in the pan, add parsley, and season with salt and pepper to taste."
+          },
+          {
+             "number":6,
+             "description":"Serve the pasta hot, garnished with additional parsley and a squeeze of lemon, if desired."
+          }
+       ],
+       "nutrition_section":{
+          "calorie_info":{
+             "total_calories":272,
+             "calories":[
+                {
+                   "name":"proteins",
+                   "amount":"16.5g",
+                   "percentage":33
+                },
+                {
+                    "name":"Fats",
+                    "amount":"19.5g",
+                    "percentage":19
+                 },
+                 {
+                    "name":"Carbs",
+                    "amount":"20,5g",
+                    "percentage":8
+                 },
+                 {
+                    "name":"Fibres",
+                    "amount":"5g",
+                    "percentage":11
+                 }
+             ]
+          },
+          "fat_info":{
+             "total_fats":"13.5g",
+             "percentage":39,
+             "fats":[
+                {
+                   "name":"Saturated Fat (g)",
+                   "amount":"16.5g"
+                },
+                {
+                   "name":"polyunsaturated Fat (g)",
+                   "amount":"0.6g"
+                }
+             ]
+          },
+          "protein_info":{
+            "total_proteins":"16,5g",
+            "percentage":60,
+            "proteins":[
+               {
+                  "name":"Complex Proteins (g)",
+                  "amount":"16.5g"
+               },
+               {
+                  "name":"Simple Proteins (g)",
+                  "amount":"4,4"
+               }
+            ]
+         }
+       },
+       "pricing_info":{
+          "price":"$12.88",
+          "discount":"$0.0"
+       }
+    },
+    {
+        "name":"Creamy Mushroom Risotto",
+        "type":"Rice Dish",
+        "title":"Rich and Creamy Mushroom Risotto",
+        "servings":4,
+        "calories":315,
+        "preparation_time":"45 minutes",
+        "difficulty":"Medium",
+        "ingredients":[
+           {
+              "name":"Arborio Rice",
+              "type":"Grain",
+              "completion_percentage":30
+           },
+           {
+              "name":"Mushrooms",
+              "type":"Mixed",
+              "completion_percentage":25
+           },
+           {
+              "name":"Onion",
+              "type":"White",
+              "completion_percentage":5
+           },
+           {
+              "name":"Garlic",
+              "type":"Minced",
+              "completion_percentage":5
+           },
+           {
+              "name":"Chicken Stock",
+              "type":"Low Sodium",
+              "completion_percentage":20
+           },
+           {
+              "name":"Parmesan Cheese",
+              "type":"Grated",
+              "completion_percentage":10
+           },
+           {
+              "name":"Butter",
+              "type":"Unsalted",
+              "completion_percentage":5
+           }
+        ],
+        "preparation_step":[
+           {
+              "number":1,
+              "description":"Heat the chicken stock in a separate pot and keep it warm over low heat."
+           },
+           {
+              "number":2,
+              "description":"In a pan, melt butter over medium heat. Add onion and garlic, and sauté until soft."
+           },
+           {
+              "number":3,
+              "description":"Add the mushrooms and cook until they are soft and browned."
+           },
+           {
+              "number":4,
+              "description":"Add the rice to the pan and stir for 2 minutes until it starts to look translucent."
+           },
+           {
+              "number":5,
+              "description":"Gradually add the warm chicken stock to the rice, one ladle at a time, stirring continuously until the liquid is absorbed before adding more."
+           },
+           {
+              "number":6,
+              "description":"Once the rice is cooked al dente and the risotto is creamy, stir in the grated Parmesan cheese. Season with salt and pepper to taste."
+           },
+           {
+              "number":7,
+              "description":"Serve the risotto hot, garnished with additional Parmesan and a sprinkle of fresh herbs if desired."
+           }
+        ],
+        "nutrition_section":{
+           "calorie_info":{
+              "total_calories":335,
+              "calories":[
+                 {
+                    "name":"proteins",
+                    "amount":"10g",
+                    "percentage":12
+                 },
+                 {
+                     "name":"Fats",
+                     "amount":"18g",
+                     "percentage":48
+                  },
+                  {
+                     "name":"Carbs",
+                     "amount":"35g",
+                     "percentage":40
+                  }
+              ]
+           },
+           "fat_info":{
+              "total_fats":"20g",
+              "percentage":54,
+              "fats":[
+                 {
+                    "name":"Saturated Fat",
+                    "amount":"12g"
+                 },
+                 {
+                    "name":"Unsaturated Fat",
+                    "amount":"8g"
+                 }
+              ]
+           },
+           "protein_info":{
+             "total_proteins":"10g",
+             "percentage":30,
+             "proteins":[
+                {
+                   "name":"Animal Proteins",
+                   "amount":"7g"
+                },
+                {
+                   "name":"Vegetable Proteins",
+                   "amount":"3g"
+                }
+             ]
+          }
+        },
+        "pricing_info":{
+           "price":"$10.50",
+           "discount":"$0.00"
+        }
+     },
+     {
+        "name":"Classic Margherita Pizza",
+        "type":"Thin Crust",
+        "title":"Authentic Italian Margherita Pizza",
+        "servings":4,
+        "calories":250,
+        "preparation_time":"15 minutes",
+        "difficulty":"Easy",
+        "ingredients":[
+           {
+              "name":"Pizza Dough",
+              "type":"Fresh",
+              "completion_percentage":30
+           },
+           {
+              "name":"Tomato Sauce",
+              "type":"Organic",
+              "completion_percentage":20
+           },
+           {
+              "name":"Mozzarella Cheese",
+              "type":"Fresh",
+              "completion_percentage":25
+           },
+           {
+              "name":"Basil",
+              "type":"Fresh",
+              "completion_percentage":10
+           },
+           {
+              "name":"Olive Oil",
+              "type":"Extra Virgin",
+              "completion_percentage":5
+           },
+           {
+              "name":"Salt",
+              "type":"Sea",
+              "completion_percentage":10
+           }
+        ],
+        "preparation_step":[
+           {
+              "number":1,
+              "description":"Preheat your oven to the highest temperature. Stretch the pizza dough into a round shape."
+           },
+           {
+              "number":2,
+              "description":"Spread the tomato sauce evenly over the dough. Sprinkle with sea salt to taste."
+           },
+           {
+              "number":3,
+              "description":"Distribute mozzarella cheese evenly on top of the sauce."
+           },
+           {
+              "number":4,
+              "description":"Bake in the oven for about 10 minutes or until crust is golden and cheese is bubbly."
+           },
+           {
+              "number":5,
+              "description":"Remove from oven, and immediately add fresh basil leaves and a drizzle of extra virgin olive oil."
+           },
+           {
+              "number":6,
+              "description":"Slice and serve hot."
+           }
+        ],
+        "nutrition_section":{
+           "calorie_info":{
+              "total_calories":300,
+              "calories":[
+                 {
+                    "name":"proteins",
+                    "amount":"12g",
+                    "percentage":24
+                 },
+                 {
+                     "name":"Fats",
+                     "amount":"15g",
+                     "percentage":45
+                  },
+                  {
+                     "name":"Carbs",
+                     "amount":"28g",
+                     "percentage":31
+                  }
+              ]
+           },
+           "fat_info":{
+              "total_fats":"18g",
+              "percentage":50,
+              "fats":[
+                 {
+                    "name":"Saturated Fat",
+                    "amount":"6g"
+                 },
+                 {
+                    "name":"Unsaturated Fat",
+                    "amount":"12g"
+                 }
+              ]
+           },
+           "protein_info":{
+             "total_proteins":"12g",
+             "percentage":48,
+             "proteins":[
+                {
+                   "name":"Milk Proteins",
+                   "amount":"10g"
+                },
+                {
+                   "name":"Vegetable Proteins",
+                   "amount":"2g"
+                }
+             ]
+          }
+        },
+        "pricing_info":{
+           "price":"$8.99",
+           "discount":"$0.00"
+        }
+     },
+     {
+        "name":"Spicy Thai Green Curry Chicken",
+        "type":"Curry",
+        "title":"Aromatic Thai Green Curry with Chicken",
+        "servings":4,
+        "calories":410,
+        "preparation_time":"30 minutes",
+        "difficulty":"Medium",
+        "ingredients":[
+           {
+              "name":"Chicken Breast",
+              "type":"Boneless",
+              "completion_percentage":30
+           },
+           {
+              "name":"Coconut Milk",
+              "type":"Full Fat",
+              "completion_percentage":20
+           },
+           {
+              "name":"Green Curry Paste",
+              "type":"Authentic Thai",
+              "completion_percentage":15
+           },
+           {
+              "name":"Bamboo Shoots",
+              "type":"Sliced",
+              "completion_percentage":10
+           },
+           {
+              "name":"Thai Basil",
+              "type":"Fresh",
+              "completion_percentage":5
+           },
+           {
+              "name":"Fish Sauce",
+              "type":"Thai",
+              "completion_percentage":5
+           },
+           {
+              "name":"Sugar",
+              "type":"Palm",
+              "completion_percentage":5
+           },
+           {
+              "name":"Vegetable Oil",
+              "type":"For Frying",
+              "completion_percentage":5
+           },
+           {
+              "name":"Mixed Vegetables",
+              "type":"Bell Peppers and Pea Eggplants",
+              "completion_percentage":5
+           }
+        ],
+        "preparation_step":[
+           {
+              "number":1,
+              "description":"Heat vegetable oil in a large skillet over medium heat. Add the green curry paste and fry until aromatic."
+           },
+           {
+              "number":2,
+              "description":"Add the chicken pieces and stir until they are just cooked."
+           },
+           {
+              "number":3,
+              "description":"Pour in the coconut milk, bring to a gentle boil, then reduce the heat and simmer."
+           },
+           {
+              "number":4,
+              "description":"Add the bamboo shoots, mixed vegetables, fish sauce, and palm sugar. Simmer for 10 minutes."
+           },
+           {
+              "number":5,
+              "description":"Stir in Thai basil leaves just before serving."
+           },
+           {
+              "number":6,
+              "description":"Serve hot with steamed jasmine rice."
+           }
+        ],
+        "nutrition_section":{
+           "calorie_info":{
+              "total_calories":430,
+              "calories":[
+                 {
+                    "name":"proteins",
+                    "amount":"25g",
+                    "percentage":23
+                 },
+                 {
+                     "name":"Fats",
+                     "amount":"27g",
+                     "percentage":56
+                  },
+                  {
+                     "name":"Carbs",
+                     "amount":"18g",
+                     "percentage":21
+                  }
+              ]
+           },
+           "fat_info":{
+              "total_fats":"29g",
+              "percentage":60,
+              "fats":[
+                 {
+                    "name":"Saturated Fat",
+                    "amount":"20g"
+                 },
+                 {
+                    "name":"Unsaturated Fat",
+                    "amount":"9g"
+                 }
+              ]
+           },
+           "protein_info":{
+             "total_proteins":"25g",
+             "percentage":58,
+             "proteins":[
+                {
+                   "name":"Animal Proteins",
+                   "amount":"24g"
+                },
+                {
+                   "name":"Vegetable Proteins",
+                   "amount":"1g"
+                }
+             ]
+          }
+        },
+        "pricing_info":{
+           "price":"$15.00",
+           "discount":"$0.00"
+        }
+     },
+     {
+        "name":"Vegan Quinoa Salad",
+        "type":"Salad",
+        "title":"Colorful Quinoa Salad with a Lemon Tahini Dressing",
+        "servings":4,
+        "calories":290,
+        "preparation_time":"20 minutes",
+        "difficulty":"Easy",
+        "ingredients":[
+           {
+              "name":"Quinoa",
+              "type":"Tri-Color",
+              "completion_percentage":25
+           },
+           {
+              "name":"Cherry Tomatoes",
+              "type":"Halved",
+              "completion_percentage":15
+           },
+           {
+              "name":"Cucumber",
+              "type":"Diced",
+              "completion_percentage":10
+           },
+           {
+              "name":"Red Onion",
+              "type":"Finely Chopped",
+              "completion_percentage":5
+           },
+           {
+              "name":"Kale",
+              "type":"Chopped",
+              "completion_percentage":15
+           },
+           {
+              "name":"Avocado",
+              "type":"Sliced",
+              "completion_percentage":10
+           },
+           {
+              "name":"Lemon Tahini Dressing",
+              "type":"Homemade",
+              "completion_percentage":20
+           }
+        ],
+        "preparation_step":[
+           {
+              "number":1,
+              "description":"Cook quinoa according to package instructions, then let it cool."
+           },
+           {
+              "number":2,
+              "description":"In a large bowl, combine the cooled quinoa, cherry tomatoes, cucumber, red onion, and kale."
+           },
+           {
+              "number":3,
+              "description":"Add the sliced avocado on top of the salad."
+           },
+           {
+              "number":4,
+              "description":"Drizzle the lemon tahini dressing over the salad and gently toss to combine."
+           },
+           {
+              "number":5,
+              "description":"Season with salt and pepper to taste and serve immediately or chill in the fridge before serving."
+           }
+        ],
+        "nutrition_section":{
+           "calorie_info":{
+              "total_calories":310,
+              "calories":[
+                 {
+                    "name":"proteins",
+                    "amount":"9g",
+                    "percentage":12
+                 },
+                 {
+                     "name":"Fats",
+                     "amount":"15g",
+                     "percentage":44
+                  },
+                  {
+                     "name":"Carbs",
+                     "amount":"35g",
+                     "percentage":44
+                  }
+              ]
+           },
+           "fat_info":{
+              "total_fats":"17g",
+              "percentage":49,
+              "fats":[
+                 {
+                    "name":"Saturated Fat",
+                    "amount":"2g"
+                 },
+                 {
+                    "name":"Unsaturated Fat",
+                    "amount":"15g"
+                 }
+              ]
+           },
+           "protein_info":{
+             "total_proteins":"9g",
+             "percentage":29,
+             "proteins":[
+                {
+                   "name":"Plant Proteins",
+                   "amount":"9g"
+                }
+             ]
+          }
+        },
+        "pricing_info":{
+           "price":"$12.00",
+           "discount":"$0.00"
+        }
+     }              
+ ]
