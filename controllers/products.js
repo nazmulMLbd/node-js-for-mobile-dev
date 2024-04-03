@@ -1,5 +1,6 @@
 const productJson = require("../recipes.json");
-const Product = require("../models/product")
+const Product = require("../models/product");
+const Recipe = require("../models/recipe");
 
 const getAllProducts = async(req, res) => {
 
@@ -17,7 +18,7 @@ const getAllProducts = async(req, res) => {
     if (name) {
         queryObject.name = {$regex:name, $options: "i"};
     }
-    let apiData = Product.find(queryObject);
+    let apiData = Recipe.find(queryObject);
 
     if (sort) {
         let sortFix = sort.replace(",", " ")
